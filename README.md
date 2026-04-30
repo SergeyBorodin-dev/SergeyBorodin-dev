@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**SergeyBorodin-dev/SergeyBorodin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sergey Borodin**, a software developer passionate about building scalable and efficient applications.
 
-Here are some ideas to get you started:
+### 🔭 About Me
+- 💻 Full-stack developer with experience in modern web technologies
+- 🚀 Interested in clean code, best practices, and continuous learning
+- 🌱 Always exploring new technologies and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React, Vue.js, HTML/CSS
+- **Backend**: Node.js, Express, REST APIs
+- **Tools**: Git, Docker, GitHub Actions
+
+### 💡 What I'm Working On
+Open to collaborating on interesting projects and contributing to open-source communities.
+
+### 📫 Let's Connect
+Feel free to reach out for collaborations, discussions, or just to say hello!
+
+---
+
+*Last updated: April 30, 2026*
